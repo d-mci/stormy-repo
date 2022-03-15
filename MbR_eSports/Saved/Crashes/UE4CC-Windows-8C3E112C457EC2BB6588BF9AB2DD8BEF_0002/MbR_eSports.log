@@ -1,0 +1,1390 @@
+﻿Log file open, 03/15/22 18:20:47
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: MbR_eSports
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.319128
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamShared
+LogXGEController: Cleaning working directory: C:/Users/Daniel/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Warning: Incompatible or missing module: MbR_eSports
+Running Z:/Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe Development Win64 -Project="C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/MbR_eSports.uproject" -TargetType=Editor -Progress -NoEngineChanges -NoHotReloadFromIDE
+Creating makefile for MbR_eSportsEditor (no existing makefile)
+@progress push 5%
+Parsing headers for MbR_eSportsEditor
+  Running UnrealHeaderTool "C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\MbR_eSports.uproject" "C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Intermediate\Build\Win64\MbR_eSportsEditor\Development\MbR_eSportsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Daniel\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+Reflection code generated for MbR_eSportsEditor in 10.9100597 seconds
+@progress pop
+Building MbR_eSportsEditor...
+Using Visual Studio 2019 14.27.29111 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+Building 26 actions with 16 processes...
+  @progress 'Compiling C++ source code...' 0%
+  @progress 'Compiling C++ source code...' 4%
+  [1/26] Default.rc2
+  @progress 'Compiling C++ source code...' 8%
+  [2/26] SharedPCH.Engine.ShadowErrors.cpp
+  @progress 'Compiling C++ source code...' 12%
+  [3/26] MyPlayerState.cpp
+  @progress 'Compiling C++ source code...' 15%
+  [4/26] MyPlayerController.cpp
+  @progress 'Compiling C++ source code...' 19%
+  [5/26] Tile.cpp
+  @progress 'Compiling C++ source code...' 23%
+  [6/26] Tile.gen.cpp
+  @progress 'Compiling C++ source code...' 27%
+  [7/26] MyPlayerController.gen.cpp
+  @progress 'Compiling C++ source code...' 31%
+  [8/26] MyGameStateBase.cpp
+  @progress 'Compiling C++ source code...' 35%
+  [9/26] TileGrid.cpp
+  @progress 'Compiling C++ source code...' 38%
+  [10/26] TileGrid.gen.cpp
+  @progress 'Compiling C++ source code...' 42%
+  [11/26] MyPlayerState.gen.cpp
+  @progress 'Compiling C++ source code...' 46%
+  [12/26] ServerInfoStruct.gen.cpp
+  @progress 'Compiling C++ source code...' 50%
+  [13/26] MbR_eSports.init.gen.cpp
+  @progress 'Compiling C++ source code...' 54%
+  [14/26] MyGameStateBase.gen.cpp
+  @progress 'Compiling C++ source code...' 58%
+  [15/26] MbRGameInstance.gen.cpp
+  @progress 'Compiling C++ source code...' 62%
+  [16/26] MainMenuWidget.gen.cpp
+  @progress 'Compiling C++ source code...' 65%
+  [17/26] ServerSlotWidget.gen.cpp
+  @progress 'Compiling C++ source code...' 69%
+  [18/26] ServerSlotWidget.cpp
+  @progress 'Compiling C++ source code...' 73%
+  [19/26] MbR_eSportsGameModeBase.gen.cpp
+  @progress 'Compiling C++ source code...' 77%
+  [20/26] MainMenuWidget.cpp
+  @progress 'Compiling C++ source code...' 81%
+  [21/26] MbRGameInstance.cpp
+  @progress 'Compiling C++ source code...' 85%
+  [22/26] MbR_eSports.cpp
+  @progress 'Compiling C++ source code...' 88%
+  [23/26] MbR_eSportsGameModeBase.cpp
+  @progress 'Compiling C++ source code...' 92%
+  [24/26] UE4Editor-MbR_eSports.lib
+     Creating library C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Intermediate\Build\Win64\UE4Editor\Development\MbR_eSports\UE4Editor-MbR_eSports.lib and object C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Intermediate\Build\Win64\UE4Editor\Development\MbR_eSports\UE4Editor-MbR_eSports.exp
+  @progress 'Compiling C++ source code...' 96%
+  [25/26] UE4Editor-MbR_eSports.dll
+     Creating library C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Intermediate\Build\Win64\UE4Editor\Development\MbR_eSports\UE4Editor-MbR_eSports.suppressed.lib and object C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Intermediate\Build\Win64\UE4Editor\Development\MbR_eSports\UE4Editor-MbR_eSports.suppressed.exp
+  @progress 'Compiling C++ source code...' 100%
+  [26/26] MbR_eSportsEditor.target
+Total time in Parallel executor: 44.99 seconds
+Total execution time: 99.50 seconds
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogSteamShared: Display: Loading Steam SDK 1.47
+LogSteamShared: Steam SDK Loaded!
+LogOnline: OSS: Creating online subsystem instance for: Steam
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: OSS: Unable to create OnlineSubsystem module Steam
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.51.0
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 3700X 8-Core Processor             , GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: Z:/Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.03.15-18.22.32:462][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.03.15-18.22.32:462][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.03.15-18.22.32:462][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Saved/Config/Windows/Engine.ini]
+[2022.03.15-18.22.32:462][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.03.15-18.22.32:462][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:1]]
+[2022.03.15-18.22.32:462][  0]LogConfig: Setting CVar [[r.RayTracing:1]]
+[2022.03.15-18.22.32:462][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Saved/Config/Windows/Engine.ini]
+[2022.03.15-18.22.32:462][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Saved/Config/Windows/Engine.ini]
+[2022.03.15-18.22.32:462][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.03.15-18.22.32:462][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.03.15-18.22.32:462][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.03.15-18.22.32:463][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.03.15-18.22.32:463][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.03.15-18.22.32:463][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.03.15-18.22.32:463][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.03.15-18.22.32:463][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.03.15-18.22.32:463][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.03.15-18.22.32:463][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.03.15-18.22.32:463][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.03.15-18.22.32:463][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.03.15-18.22.32:463][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.03.15-18.22.32:463][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.03.15-18.22.32:463][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Saved/Config/Windows/Engine.ini]
+[2022.03.15-18.22.32:463][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.03.15-18.22.32:463][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.03.15-18.22.32:463][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.03.15-18.22.32:463][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.03.15-18.22.32:463][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.03.15-18.22.32:463][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.03.15-18.22.32:463][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.03.15-18.22.32:463][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.03.15-18.22.32:463][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.03.15-18.22.32:463][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.03.15-18.22.32:463][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.03.15-18.22.32:463][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.03.15-18.22.32:463][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.03.15-18.22.32:463][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.03.15-18.22.32:463][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Saved/Config/Windows/Engine.ini]
+[2022.03.15-18.22.32:463][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Saved/Config/Windows/Engine.ini]
+[2022.03.15-18.22.32:496][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.15-18.22.32:496][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.15-18.22.32:497][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.15-18.22.32:497][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.03.15-18.22.32:497][  0]LogHAL: Display: Platform has ~ 28 GB [30011404288 / 34359738368 / 28], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.03.15-18.22.32:497][  0]LogInit: Going up to parent DeviceProfile []
+[2022.03.15-18.22.32:497][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.15-18.22.32:497][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.15-18.22.32:498][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.15-18.22.32:498][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.15-18.22.32:498][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.15-18.22.32:498][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.15-18.22.32:498][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.15-18.22.32:498][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.15-18.22.32:498][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.15-18.22.32:498][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.15-18.22.32:498][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.15-18.22.32:498][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.15-18.22.32:498][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.15-18.22.32:498][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.15-18.22.32:498][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.15-18.22.32:498][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.15-18.22.32:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.15-18.22.32:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.15-18.22.32:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.15-18.22.32:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.15-18.22.32:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.15-18.22.32:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.15-18.22.32:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.15-18.22.32:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.15-18.22.32:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.15-18.22.32:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.15-18.22.32:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.15-18.22.32:498][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-18.22.32:498][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.15-18.22.32:498][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.15-18.22.32:498][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Saved/Config/Windows/Scalability.ini]
+[2022.03.15-18.22.32:498][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.15-18.22.32:498][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.15-18.22.32:498][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.15-18.22.32:498][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.03.15-18.22.32:498][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.03.15-18.22.32:498][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.03.15-18.22.32:498][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.03.15-18.22.32:498][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Saved/Config/Windows/Engine.ini]
+[2022.03.15-18.22.32:498][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Saved/Config/Windows/Editor.ini]
+[2022.03.15-18.22.32:498][  0]LogInit: Computer: DESKTOP-263V60F
+[2022.03.15-18.22.32:498][  0]LogInit: User: Daniel
+[2022.03.15-18.22.32:498][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.03.15-18.22.32:498][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.03.15-18.22.32:498][  0]LogMemory: Memory total: Physical=28.0GB (28GB approx)
+[2022.03.15-18.22.32:498][  0]LogMemory: Platform Memory Stats for Windows
+[2022.03.15-18.22.32:498][  0]LogMemory: Process Physical Memory: 149.53 MB used, 149.54 MB peak
+[2022.03.15-18.22.32:498][  0]LogMemory: Process Virtual Memory: 134.54 MB used, 134.54 MB peak
+[2022.03.15-18.22.32:498][  0]LogMemory: Physical Memory: 12006.10 MB used,  16615.01 MB free, 28621.11 MB total
+[2022.03.15-18.22.32:498][  0]LogMemory: Virtual Memory: 134204672.00 MB used,  13056.80 MB free, 134217728.00 MB total
+[2022.03.15-18.22.32:505][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.03.15-18.22.32:572][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.03.15-18.22.32:576][  0]LogInit: Using OS detected language (en-GB).
+[2022.03.15-18.22.32:576][  0]LogInit: Using OS detected locale (en-GB).
+[2022.03.15-18.22.32:579][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2022.03.15-18.22.32:769][  0]LogInit: Setting process to per monitor DPI aware
+[2022.03.15-18.22.32:777][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.15-18.22.32:797][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.03.15-18.22.32:797][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.03.15-18.22.33:021][  0]LogD3D12RHI: Aftermath initialized
+[2022.03.15-18.22.33:021][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.03.15-18.22.33:161][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2060 (Max supported Feature Level 12_1)
+[2022.03.15-18.22.33:161][  0]LogD3D12RHI: Adapter has 5980MB of dedicated video memory, 0MB of dedicated system memory, and 14310MB of shared system memory, 2 output[s]
+[2022.03.15-18.22.33:175][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1)
+[2022.03.15-18.22.33:175][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 14310MB of shared system memory, 0 output[s]
+[2022.03.15-18.22.33:175][  0]LogD3D12RHI: Forcing D3D12.AsyncDeferredDeletion=0 as a workaround for a deadlock.
+[2022.03.15-18.22.33:175][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.03.15-18.22.33:187][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.03.15-18.22.33:187][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.03.15-18.22.33:299][  0]LogD3D12RHI: The system supports ID3D12Device1.
+[2022.03.15-18.22.33:299][  0]LogD3D12RHI: The system supports ID3D12Device2.
+[2022.03.15-18.22.33:299][  0]LogD3D12RHI: The system supports ID3D12Device5.
+[2022.03.15-18.22.33:299][  0]LogD3D12RHI: The system supports ID3D12Device7.
+[2022.03.15-18.22.33:299][  0]LogD3D12RHI: D3D12 ray tracing 1.0 is supported.
+[2022.03.15-18.22.33:299][  0]LogD3D12RHI: D3D12 ray tracing 1.1 is supported.
+[2022.03.15-18.22.33:370][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.03.15-18.22.33:380][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.03.15-18.22.33:399][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.03.15-18.22.33:410][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.03.15-18.22.33:410][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.03.15-18.22.33:411][  0]LogD3D12RHI:     GPU DeviceId: 0x1f08 (for the marketing name, search the web for "GPU Device Id")
+[2022.03.15-18.22.33:412][  0]LogWindows: EnumDisplayDevices:
+[2022.03.15-18.22.33:412][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2022.03.15-18.22.33:412][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:1)
+[2022.03.15-18.22.33:412][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2022.03.15-18.22.33:413][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2022.03.15-18.22.33:413][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.03.15-18.22.33:413][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2022.03.15-18.22.33:413][  0]LogD3D12RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2022.03.15-18.22.33:413][  0]LogD3D12RHI:      Driver Date: 9-30-2020
+[2022.03.15-18.22.33:413][  0]LogRHI: Texture pool is 3283 MB (70% of 4690 MB)
+[2022.03.15-18.22.33:413][  0]LogD3D12RHI: Async texture creation enabled
+[2022.03.15-18.22.33:413][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.03.15-18.22.33:425][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.03.15-18.22.33:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.03.15-18.22.33:797][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.03.15-18.22.33:797][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.03.15-18.22.33:797][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.03.15-18.22.33:797][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.03.15-18.22.33:797][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.03.15-18.22.33:797][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.03.15-18.22.33:797][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.03.15-18.22.33:797][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.03.15-18.22.33:797][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.03.15-18.22.33:797][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.03.15-18.22.33:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.03.15-18.22.33:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.03.15-18.22.33:831][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.03.15-18.22.33:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.03.15-18.22.33:867][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.03.15-18.22.33:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.03.15-18.22.33:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.03.15-18.22.33:893][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.03.15-18.22.33:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.03.15-18.22.33:923][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.03.15-18.22.33:923][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.03.15-18.22.33:931][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.03.15-18.22.33:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.03.15-18.22.33:948][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.03.15-18.22.33:956][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.03.15-18.22.33:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.03.15-18.22.33:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.03.15-18.22.33:979][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.03.15-18.22.33:988][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.03.15-18.22.33:997][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.03.15-18.22.34:006][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.03.15-18.22.34:006][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.03.15-18.22.34:015][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.03.15-18.22.34:083][  0]LogRendererCore: Ray tracing is enabled for the editor. Reason: r.RayTracing=1.
+[2022.03.15-18.22.34:083][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Intermediate/Shaders/WorkingDirectory/21416/).
+[2022.03.15-18.22.34:083][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Daniel/AppData/Local/Temp/UnrealShaderWorkingDir/93DD1D06444D4B956D00B0B061239601/'.
+[2022.03.15-18.22.34:083][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.03.15-18.22.34:083][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.03.15-18.22.34:763][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.03.15-18.22.34:823][  0]LogDerivedDataCache: Loaded boot cache 0.06s 112MB C:/Users/Daniel/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.03.15-18.22.34:823][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Daniel/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.03.15-18.22.34:824][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.03.15-18.22.34:824][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.03.15-18.22.34:824][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.15-18.22.34:824][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.03.15-18.22.34:835][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.03.15-18.22.34:835][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.15-18.22.34:835][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.03.15-18.22.34:866][  0]LogDerivedDataCache: Speed tests for C:/Users/Daniel/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.03 seconds
+[2022.03.15-18.22.34:866][  0]LogDerivedDataCache: Display: Performance to C:/Users/Daniel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=924.69MBs, RandomWriteSpeed=31.58MBs. Assigned SpeedClass 'Local'
+[2022.03.15-18.22.34:867][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Daniel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.03.15-18.22.34:867][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.03.15-18.22.34:867][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.03.15-18.22.34:956][  0]LogSlate: Using FreeType 2.10.0
+[2022.03.15-18.22.34:956][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.03.15-18.22.34:980][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
+[2022.03.15-18.22.35:209][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.15-18.22.35:209][  0]LogInit: Active device profile: [0000026D6B371900][0000026D6C4B7400 49] Windows
+[2022.03.15-18.22.35:209][  0]LogInit: Profiles: [0000026D6B371900][0000026D6C4B7400 49] Windows, [0000026D6B32E400][0000026D66713580 49] WindowsNoEditor, [0000026D6B373300][0000026D66717700 49] WindowsServer, [0000026D6B32D000][0000026D6671B880 49] WindowsClient, [0000026D6B371100][0000026D6671FA00 49] IOS, [0000026D6B32FD00][0000026D66723B80 49] iPadAir, [0000026D6B373200][0000026D6672FD00 49] iPadAir2, [0000026D6C27E600][0000026D66736280 49] IPadPro, [0000026D6C27E700][0000026D6C4BA2C0 49] iPadAir3, [0000026D6B373700][0000026D68C08400 49] iPadAir4, [0000026D6C27FC00][0000026D68C0C540 49] iPadMini2, [0000026D6B371F00][0000026D68C446C0 49] iPadMini3, [0000026D6C27DB00][0000026D68C48840 49] iPadMini4, [0000026D6B371D00][0000026D68C589C0 49] iPadMini5, [0000026D6C2C1F00][0000026D68D2EC80 49] iPhone6, [0000026D6C2C2000][0000026D68D2ACC0 49] iPodTouch6, [0000026D6B32FE00][0000026D68D36F80 49] iPhone7, [0000026D6B32FF00][0000026D68D32FC0 49] iPodTouch7, [0000026D6C2C3600][0000026D68D3B140 49] iPhone5S, [0000026D6B32D800][0000026D68D3F2C0 49] iPhone6Plus, [0000026D6C2C1900][0000026D68D43440 49] iPhone6S, [0000026D6B32DF00][0000026D68D475C0 49] iPhone6SPlus, [0000026D6C2C0C00][0000026D68D4B740 49] iPhone7Plus, [0000026D6B32E800][0000026D68D4F8C0 49] iPhoneSE, [0000026D6C2C1200][0000026D68D53A40 49] iPhone8, [0000026D6B32FB00][0000026D68D57BC0 49] iPhone8Plus, [0000026D6C2C0A00][0000026D68D63D40 49] iPhoneX, [0000026D6B32D200][0000026D68C401C0 49] iPhoneXS, [0000026D6C2C2500][0000026D68D92300 49] iPhoneXSMax, [0000026D6B32C700][0000026D6C53A440 49] iPhoneXR, [0000026D6C2C3000][0000026D6C550580 49] iPhone11, [0000026D6B32F400][0000026D6C558700 49] iPhone11Pro, [0000026D6C2C1800][0000026D6C5EA880 49] iPhone11ProMax, [0000026D6B32EA00][0000026D6C5EEA00 49] iPhoneSE2, [0000026D6C2C3C00][0000026D6C5F2B80 49] iPhone12Mini, [0000026D6B32E900][0000026D6C5F6D00 49] iPhone12, [0000026D6B373A00][0000026D6C61AE80 49] iPhone12Pro, [0000026D6C2C1700][0000026D6C61F000 49] iPhone12ProMax, [0000026D6B373C00][0000026D6C63F180 49] iPadPro105, [0000026D6C2C0E00][0000026D6C651300 49] iPadPro129, [0000026D6B372D00][0000026D6C65D480 49] iPadPro97, [0000026D6C2C2C00][0000026D6C661600 49] iPadPro2_129, [0000026D6B32D700][0000026D6C665780 49] iPad5, [0000026D6C2C3800][0000026D6C669900 49] iPad6, [0000026D6B32DA00][0000026D6C66DA80 49] iPad7, [0000026D6C2C1100][0000026D6C671C00 49] iPad8, [0000026D6B32CC00][0000026D6C6740C0 49] iPadPro11, [0000026D6C2C0B00][0000026D6C678240 49] iPadPro2_11, [0000026D6B32F900][0000026D6C554380 49] iPadPro3_129, [0000026D6C2C0100][0000026D6C67C4C0 49] iPadPro4_129, [0000026D6B32FC00][0000026D6C6A6600 49] AppleTV, [0000026D6C2C3B00][0000026D6C6AE780 49] AppleTV4K, [0000026D6B32C100][0000026D6C6B2900 49] TVOS, [0000026D6C2C0500][0000026D6C6B6A80 49] Mac, [0000026D6B32F700][0000026D6C6BAC00 49] MacClient, [0000026D6C2C3400][0000026D6C6BED80 49] MacNoEditor, [0000026D6B32E000][0000026D6C6C2F00 49] MacServer, [0000026D6C2C1300][0000026D6C6C7080 49] Linux, [0000026D6B32F300][0000026D6C6CB200 49] LinuxAArch64, [0000026D6C2C2200][0000026D6CF8F380 49] LinuxNoEditor, [0000026D6B32DB00][0000026D6CF93500 49] LinuxAArch64NoEditor, [0000026D6C2C3300][0000026D6CF97680 49] LinuxClient, [0000026D6B32EE00][0000026D6CF9B800 49] LinuxAArch64Client, [0000026D6C2C2600][0000026D6CF9F980 49] LinuxServer, [0000026D6B32E600][0000026D6CFA3B00 49] LinuxAArch64Server, [0000026D6C2C2D00][0000026D6CFA7C80 49] Android, [0000026D6B32CE00][0000026D6CFAA140 49] Android_Low, [0000026D6C2C1600][0000026D6D06A2C0 49] Android_Mid, [0000026D6B32EB00][0000026D6C6AA400 49] Android_High, [0000026D6C2C2700][0000026D6D06E540 49] Android_Default, [0000026D6B32D900][0000026D6D072680 49] Android_Adreno4xx, [0000026D6C2C0700][0000026D6D0767C0 49] Android_Adreno5xx_Low, [0000026D6B32E200][0000026D6D07E940 49] Android_Adreno5xx, [0000026D6C2C0800][0000026D6D082AC0 49] Android_Adreno6xx, [0000026D6B32F800][0000026D6D086C40 49] Android_Adreno6xx_Vulkan, [0000026D6C2C2800][0000026D6D08ADC0 49] Android_Mali_T6xx, [0000026D6B32F100][0000026D6D08EF40 49] Android_Mali_T7xx, [0000026D6C2C0D00][0000026D6D0930C0 49] Android_Mali_T8xx, [0000026D6B32EF00][0000026D6D097240 49] Android_Mali_G71, [0000026D6C2C0F00][0000026D6D09B3C0 49] Android_Mali_G72, [0000026D6B32CD00][0000026D6D09F540 49] Android_Mali_G72_Vulkan, [0000026D6C2C2A00][0000026D6D0A36C0 49] Android_Mali_G76, [0000026D6B32D300][0000026D6D0A7840 49] Android_Mali_G76_Vulkan, [0000026D6C2C1A00][0000026D6D0AB9C0 49] Android_Mali_G77, [0000026D6C27EE00][0000026D6D0AFB40 49] Android_Mali_G77_Vulkan, [0000026D6B373900][0000026D6D163CC0 49] Android_Vulkan_SM5, [0000026D6C27C800][0000026D6D166180 49] Android_PowerVR_G6xxx, [0000026D6B373400][0000026D6D16A300 49] Android_PowerVR_GT7xxx, [0000026D6C27CE00][0000026D6D07A440 49] Android_PowerVR_GE8xxx, [0000026D6B371400][0000026D6D19A580 49] Android_PowerVR_GM9xxx, [0000026D6C27C900][0000026D6B1146C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000026D6B370E00][0000026D6B118800 49] Android_TegraK1, [0000026D6C27CD00][0000026D6B120980 49] Android_Unknown_Vulkan, [0000026D6B370C00][0000026D6B124B00 49] Lumin, [0000026D6C27D000][0000026D6B128C80 49] Lumin_Desktop, [0000026D6B371700][0000026D6B12CE00 49] HoloLens, 
+[2022.03.15-18.22.35:277][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.03.15-18.22.35:277][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.03.15-18.22.35:277][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.03.15-18.22.35:277][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.03.15-18.22.35:277][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.03.15-18.22.35:488][  0]LogNetVersion: MbR_eSports 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3986591793)
+[2022.03.15-18.22.35:915][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.03.15-18.22.35:973][  0]LogPackageLocalizationCache: Processed 21 localized package path(s) for 1 prioritized culture(s) in 0.058167 seconds
+[2022.03.15-18.22.35:979][  0]LogUObjectArray: 16736 objects as part of root set at end of initial load.
+[2022.03.15-18.22.35:979][  0]LogUObjectAllocator: 4195168 out of 0 bytes used by permanent object pool.
+[2022.03.15-18.22.35:979][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.03.15-18.22.36:150][  0]LogD3D12RHI: Creating RTPSO with 3 shaders (0 cached, 3 new) took 20.16 ms. Compile time 5.14 ms, link time 14.98 ms.
+[2022.03.15-18.22.36:497][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.03.15-18.22.36:528][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.03.15-18.22.36:642][  0]SourceControl: Source control is disabled
+[2022.03.15-18.22.36:642][  0]SourceControl: Source control is disabled
+[2022.03.15-18.22.36:647][  0]SourceControl: Source control is disabled
+[2022.03.15-18.22.36:652][  0]SourceControl: Source control is disabled
+[2022.03.15-18.22.36:664][  0]SourceControl: Source control is disabled
+[2022.03.15-18.22.36:667][  0]LogUProjectInfo: Found projects:
+[2022.03.15-18.22.36:923][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.03.15-18.22.36:941][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.15-18.22.36:941][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.15-18.22.37:003][  0]LogCollectionManager: Loaded 0 collections in 0.000732 seconds
+[2022.03.15-18.22.37:029][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Saved/Collections/' took 0.00s
+[2022.03.15-18.22.37:029][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Content/Developers/Daniel/Collections/' took 0.00s
+[2022.03.15-18.22.37:029][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Content/Collections/' took 0.00s
+[2022.03.15-18.22.37:029][  0]LogOcInput: OculusInput pre-init called
+[2022.03.15-18.22.37:231][  0]LogEngine: Initializing Engine...
+[2022.03.15-18.22.37:232][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.03.15-18.22.37:233][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.03.15-18.22.37:383][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.03.15-18.22.37:392][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.03.15-18.22.37:393][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.03.15-18.22.37:397][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.03.15-18.22.37:397][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.03.15-18.22.37:397][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.15-18.22.37:397][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.15-18.22.37:397][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.15-18.22.37:397][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.15-18.22.37:397][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.15-18.22.37:397][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.15-18.22.37:397][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.15-18.22.37:398][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.15-18.22.37:398][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.15-18.22.37:398][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.15-18.22.37:422][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.15-18.22.37:422][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.03.15-18.22.37:450][  0]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2022.03.15-18.22.37:453][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.15-18.22.37:455][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.15-18.22.37:455][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.15-18.22.37:456][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.15-18.22.37:456][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.15-18.22.37:456][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.15-18.22.37:457][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.15-18.22.37:458][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.15-18.22.37:458][  0]LogInit: FAudioDevice initialized.
+[2022.03.15-18.22.37:483][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.03.15-18.22.37:483][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.03.15-18.22.37:634][  0]LogDerivedDataCache: Saved boot cache 0.15s 112MB C:/Users/Daniel/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.03.15-18.22.37:640][  0]LogInit: Texture streaming: Enabled
+[2022.03.15-18.22.37:654][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.03.15-18.22.37:659][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.03.15-18.22.37:659][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.03.15-18.22.37:662][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.03.15-18.22.37:688][  0]LogInit: Transaction tracking system initialized
+[2022.03.15-18.22.37:711][  0]BlueprintLog: New page: Editor Load
+[2022.03.15-18.22.37:783][  0]LocalizationService: Localization service is disabled
+[2022.03.15-18.22.37:806][  0]TimingProfiler: Initialize
+[2022.03.15-18.22.37:806][  0]TimingProfiler: OnSessionChanged
+[2022.03.15-18.22.37:806][  0]LoadingProfiler: Initialize
+[2022.03.15-18.22.37:806][  0]LoadingProfiler: OnSessionChanged
+[2022.03.15-18.22.37:806][  0]NetworkingProfiler: Initialize
+[2022.03.15-18.22.37:806][  0]NetworkingProfiler: OnSessionChanged
+[2022.03.15-18.22.37:806][  0]MemoryProfiler: Initialize
+[2022.03.15-18.22.37:806][  0]MemoryProfiler: OnSessionChanged
+[2022.03.15-18.22.37:952][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.03.15-18.22.37:952][  0]LogCook: Display: Mobile HDR setting 1
+[2022.03.15-18.22.38:115][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Content/' took 0.00s
+[2022.03.15-18.22.38:116][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.03.15-18.22.38:123][  0]SourceControl: Source control is disabled
+[2022.03.15-18.22.38:123][  0]LogUnrealEdMisc: Loading editor; pre map load, took 111.775
+[2022.03.15-18.22.38:123][  0]Cmd: MAP LOAD FILE="C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Content/_Maps/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.15-18.22.38:123][  0]LightingResults: New page: Lighting Build
+[2022.03.15-18.22.38:124][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.03.15-18.22.38:124][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.15-18.22.38:124][  0]MapCheck: New page: Map Check
+[2022.03.15-18.22.38:124][  0]LightingResults: New page: Lighting Build
+[2022.03.15-18.22.38:129][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.03.15-18.22.38:201][  0]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Maps\NewMap.umap: Failed to load '/Game/_Maps/NewMap_BuiltData': Can't find file.
+[2022.03.15-18.22.38:202][  0]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Maps\NewMap.umap: Failed to load '/Game/_Maps/NewMap_BuiltData': Can't find file.
+[2022.03.15-18.22.38:204][  0]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Maps\NewMap.umap: Failed to load '/Game/_Maps/NewMap_BuiltData': Can't find file.
+[2022.03.15-18.22.38:205][  0]LogLinker: Warning: Failed to load '/Game/_Maps/NewMap_BuiltData': Can't find file.
+[2022.03.15-18.22.38:205][  0]LogLinker: Warning: Failed to load '/Game/_Maps/NewMap_BuiltData': Can't find file.
+[2022.03.15-18.22.38:208][  0]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Maps\NewMap.umap: Failed to load '/Game/_Maps/NewMap_BuiltData': Can't find file.
+[2022.03.15-18.22.38:208][  0]LoadErrors: Failed to load /Game/_Maps/NewMap_BuiltData.NewMap_BuiltData Referenced by PersistentLevel
+[2022.03.15-18.22.38:224][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewMap'.
+[2022.03.15-18.22.38:225][  0]LogAIModule: Creating AISystem for world NewMap
+[2022.03.15-18.22.38:229][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.15-18.22.38:230][  0]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2022.03.15-18.22.38:237][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.03.15-18.22.38:237][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.15-18.22.38:237][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.193ms to complete.
+[2022.03.15-18.22.38:238][  0]LogFileHelpers: Loading map 'NewMap' took 0.115
+[2022.03.15-18.22.38:241][  0]LogUnrealEdMisc: Total Editor Startup Time, took 111.893
+[2022.03.15-18.22.38:365][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.15-18.22.38:371][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.15-18.22.38:376][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.15-18.22.38:381][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.15-18.22.38:396][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0101 seconds. Added 3605 classes and 859 folders.
+[2022.03.15-18.22.38:398][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.15-18.22.38:400][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.15-18.22.38:400][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-18.22.38:400][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.15-18.22.38:400][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2022.03.15-18.22.38:401][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.15-18.22.38:401][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-18.22.38:401][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.15-18.22.38:401][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2022.03.15-18.22.38:402][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.03.15-18.22.38:402][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-18.22.38:402][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.03.15-18.22.38:402][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2022.03.15-18.22.38:403][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.15-18.22.38:403][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-18.22.38:403][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.15-18.22.38:403][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2022.03.15-18.22.38:404][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.15-18.22.38:404][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-18.22.38:404][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.15-18.22.38:404][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2022.03.15-18.22.38:404][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.15-18.22.38:404][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-18.22.38:404][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.15-18.22.38:404][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2022.03.15-18.22.38:405][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.15-18.22.38:405][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-18.22.38:405][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.15-18.22.38:405][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2022.03.15-18.22.38:406][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.15-18.22.38:406][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-18.22.38:406][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.15-18.22.38:406][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2022.03.15-18.22.38:406][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.15-18.22.38:406][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-18.22.38:406][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.15-18.22.38:406][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2022.03.15-18.22.38:407][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.15-18.22.38:407][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-18.22.38:407][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.15-18.22.38:407][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.03.15-18.22.38:408][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.15-18.22.38:408][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-18.22.38:408][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.15-18.22.38:408][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.03.15-18.22.38:408][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.15-18.22.38:409][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-18.22.38:409][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.15-18.22.38:409][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.03.15-18.22.38:409][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.15-18.22.38:409][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-18.22.38:410][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.15-18.22.38:410][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.03.15-18.22.38:410][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.15-18.22.38:410][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-18.22.38:410][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.15-18.22.38:410][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.03.15-18.22.38:411][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.15-18.22.38:411][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-18.22.38:411][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.15-18.22.38:411][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.03.15-18.22.38:412][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.15-18.22.38:412][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-18.22.38:412][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.15-18.22.38:412][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.03.15-18.22.38:413][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.15-18.22.38:413][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-18.22.38:413][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.15-18.22.38:413][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.03.15-18.22.38:414][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.15-18.22.38:414][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-18.22.38:414][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.15-18.22.38:414][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.03.15-18.22.38:415][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.15-18.22.38:415][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-18.22.38:415][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.15-18.22.38:415][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.03.15-18.22.38:416][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.15-18.22.38:416][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-18.22.38:416][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.15-18.22.38:416][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.03.15-18.22.38:417][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.15-18.22.38:417][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-18.22.38:417][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.15-18.22.38:417][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.03.15-18.22.38:418][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.15-18.22.38:418][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-18.22.38:418][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.15-18.22.38:418][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.03.15-18.22.38:419][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.03.15-18.22.38:419][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-18.22.38:419][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.03.15-18.22.38:419][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.03.15-18.22.38:420][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.15-18.22.38:420][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-18.22.38:420][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.15-18.22.38:420][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.03.15-18.22.38:421][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.15-18.22.38:421][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-18.22.38:421][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.15-18.22.38:421][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.03.15-18.22.38:422][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.15-18.22.38:422][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.15-18.22.38:422][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.15-18.22.38:422][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.03.15-18.22.38:498][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.15-18.22.38:499][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.03.15-18.22.38:525][  0]LogSlate: Took 0.000321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.03.15-18.22.38:527][  0]LogSlate: Took 0.000304 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.03.15-18.22.38:532][  0]LogSlate: Took 0.000346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.03.15-18.22.38:613][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2022.03.15-18.22.38:847][  0]LogD3D12RHI: Creating RTPSO with 128 shaders (0 cached, 128 new) took 181.50 ms. Compile time 159.38 ms, link time 21.78 ms.
+[2022.03.15-18.22.38:935][  0]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.03.15-18.22.38:952][  0]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.03.15-18.22.40:349][  0]LogD3D12RHI: Creating RTPSO with 10 shaders (0 cached, 10 new) took 1394.89 ms. Compile time 19.80 ms, link time 1375.02 ms.
+[2022.03.15-18.22.40:349][  0]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.03.15-18.22.40:363][  0]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.03.15-18.22.40:438][  0]LogD3D12RHI: Creating RTPSO with 3 shaders (2 cached, 1 new) took 74.06 ms. Compile time 0.95 ms, link time 73.08 ms.
+[2022.03.15-18.22.40:438][  0]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.03.15-18.22.40:453][  0]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.03.15-18.22.40:710][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.15-18.22.40:710][  0]LogLoad: (Engine Initialization) Total time: 114.36 seconds
+[2022.03.15-18.22.40:710][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.03.15-18.22.40:710][  0]LogInit: First time updating LLM stats...
+[2022.03.15-18.22.40:746][  0]LogAssetRegistry: Asset discovery search completed in 5.7670 seconds
+[2022.03.15-18.22.40:747][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.03.15-18.22.40:767][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.03.15-18.22.40:844][  0]LogSlate: Took 0.000331 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.03.15-18.22.40:858][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Content/' took 0.13s
+[2022.03.15-18.22.42:257][ 89]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.03.15-18.22.42:268][ 89]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.03.15-18.22.42:268][ 89]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.03.15-18.22.42:283][ 89]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.03.15-18.22.42:284][ 89]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.03.15-18.22.42:300][ 89]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.03.15-18.22.46:113][380]LogSlate: Window 'Message Log' being destroyed
+[2022.03.15-18.22.46:119][380]LogSlate: Window 'Message Log' being destroyed
+[2022.03.15-18.22.46:841][426]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.03.15-18.22.46:856][426]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.03.15-18.22.46:856][426]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.03.15-18.22.46:871][426]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.03.15-18.23.10:988][714]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.03.15-18.23.11:004][714]LogContentBrowser: Creating deferred item: NewFolder
+[2022.03.15-18.23.15:122][204]LogContentBrowser: Attempting asset rename: NewFolder -> Camera
+[2022.03.15-18.23.15:122][204]LogContentBrowser: End creating deferred item NewFolder
+[2022.03.15-18.23.58:028][903]LogContentBrowser: Attempting asset rename: c -> playerCamera
+[2022.03.15-18.23.58:059][903]LogSlate: Took 0.000320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.15-18.23.58:109][903]LogMetaData: Removing '/Game/_Blueprints/Camera/playerCamera.playerCamera:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/_Blueprints/Camera/c.PackageMetaData'
+[2022.03.15-18.23.58:109][903]LogMetaData: Removing '/Game/_Blueprints/Camera/playerCamera.playerCamera_C' ref from Metadata '/Game/_Blueprints/Camera/c.PackageMetaData'
+[2022.03.15-18.23.58:109][903]LogMetaData: Removing '/Game/_Blueprints/Camera/playerCamera.playerCamera:EventGraph.K2Node_Event_0' ref from Metadata '/Game/_Blueprints/Camera/c.PackageMetaData'
+[2022.03.15-18.23.58:109][903]LogMetaData: Removing '/Game/_Blueprints/Camera/playerCamera.playerCamera:EventGraph.K2Node_Event_1' ref from Metadata '/Game/_Blueprints/Camera/c.PackageMetaData'
+[2022.03.15-18.23.58:109][903]LogMetaData: Removing '/Game/_Blueprints/Camera/playerCamera.playerCamera:EventGraph.K2Node_Event_2' ref from Metadata '/Game/_Blueprints/Camera/c.PackageMetaData'
+[2022.03.15-18.23.58:110][903]LogMetaData: Removing '/Game/_Blueprints/Camera/playerCamera.SKEL_playerCamera_C:ReceiveBeginPlay' ref from Metadata '/Game/_Blueprints/Camera/c.PackageMetaData'
+[2022.03.15-18.23.58:110][903]LogMetaData: Removing '/Game/_Blueprints/Camera/playerCamera.SKEL_playerCamera_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/_Blueprints/Camera/c.PackageMetaData'
+[2022.03.15-18.23.58:110][903]LogMetaData: Removing '/Game/_Blueprints/Camera/playerCamera.SKEL_playerCamera_C:ReceiveTick' ref from Metadata '/Game/_Blueprints/Camera/c.PackageMetaData'
+[2022.03.15-18.23.58:110][903]LogMetaData: Removing '/Game/_Blueprints/Camera/playerCamera.SKEL_playerCamera_C:UserConstructionScript' ref from Metadata '/Game/_Blueprints/Camera/c.PackageMetaData'
+[2022.03.15-18.23.58:110][903]LogMetaData: Removing '/Game/_Blueprints/Camera/playerCamera.SKEL_playerCamera_C' ref from Metadata '/Game/_Blueprints/Camera/c.PackageMetaData'
+[2022.03.15-18.23.58:151][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Camera/playerCamera" FILE="C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Content/_Blueprints/Camera/playerCamera.uasset" SILENT=true
+[2022.03.15-18.23.58:180][903]LogSavePackage: Moving 'C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Saved/playerCamera2C3FA4934755822962E5E5B7B5D92A2D.tmp' to 'C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Content/_Blueprints/Camera/playerCamera.uasset'
+[2022.03.15-18.23.58:270][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.03.15-18.23.58:280][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.03.15-18.23.58:282][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.03.15-18.23.58:350][903]AssetCheck: New page: Asset Save: playerCamera
+[2022.03.15-18.23.58:350][903]LogContentValidation: Display: Validating Blueprint /Game/_Blueprints/Camera/playerCamera.playerCamera
+[2022.03.15-18.24.01:663][299]LogContentBrowser: Attempting asset rename: funny -> playergm
+[2022.03.15-18.24.01:664][299]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\Camera\funny.uasset: Failed to load '/Game/Camera/c': Can't find file.
+[2022.03.15-18.24.01:665][299]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\Camera\funny.uasset: Failed to load '/Game/Camera/c': Can't find file.
+[2022.03.15-18.24.01:665][299]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\Camera\funny.uasset: Failed to load '/Game/Camera/c': Can't find file.
+[2022.03.15-18.24.01:666][299]LogLinker: Warning: Failed to load '/Game/Camera/c': Can't find file.
+[2022.03.15-18.24.01:666][299]LogLinker: Warning: Failed to load '/Game/Camera/c': Can't find file.
+[2022.03.15-18.24.01:666][299]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\Camera\funny.uasset: Failed to load '/Game/Camera/c': Can't find file.
+[2022.03.15-18.24.01:666][299]LoadErrors: Failed to load /Game/Camera/c.c_C Referenced by Default__funny_C
+[2022.03.15-18.24.01:688][299]LogMetaData: Removing '/Game/_Blueprints/Camera/playergm.playergm:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/_Blueprints/Camera/funny.PackageMetaData'
+[2022.03.15-18.24.01:688][299]LogMetaData: Removing '/Game/_Blueprints/Camera/playergm.playergm_C' ref from Metadata '/Game/_Blueprints/Camera/funny.PackageMetaData'
+[2022.03.15-18.24.01:688][299]LogMetaData: Removing '/Game/_Blueprints/Camera/playergm.playergm:EventGraph.K2Node_Event_0' ref from Metadata '/Game/_Blueprints/Camera/funny.PackageMetaData'
+[2022.03.15-18.24.01:688][299]LogMetaData: Removing '/Game/_Blueprints/Camera/playergm.playergm:EventGraph.K2Node_Event_1' ref from Metadata '/Game/_Blueprints/Camera/funny.PackageMetaData'
+[2022.03.15-18.24.01:688][299]LogMetaData: Removing '/Game/_Blueprints/Camera/playergm.SKEL_playergm_C:ReceiveBeginPlay' ref from Metadata '/Game/_Blueprints/Camera/funny.PackageMetaData'
+[2022.03.15-18.24.01:688][299]LogMetaData: Removing '/Game/_Blueprints/Camera/playergm.SKEL_playergm_C:ReceiveTick' ref from Metadata '/Game/_Blueprints/Camera/funny.PackageMetaData'
+[2022.03.15-18.24.01:688][299]LogMetaData: Removing '/Game/_Blueprints/Camera/playergm.SKEL_playergm_C:UserConstructionScript' ref from Metadata '/Game/_Blueprints/Camera/funny.PackageMetaData'
+[2022.03.15-18.24.01:688][299]LogMetaData: Removing '/Game/_Blueprints/Camera/playergm.SKEL_playergm_C' ref from Metadata '/Game/_Blueprints/Camera/funny.PackageMetaData'
+[2022.03.15-18.24.01:711][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Camera/playergm" FILE="C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Content/_Blueprints/Camera/playergm.uasset" SILENT=true
+[2022.03.15-18.24.01:716][299]LogSavePackage: Moving 'C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Saved/playergm34CE9AF74A13BAF767173FB283617166.tmp' to 'C:/Users/Daniel/Desktop/MbR-eSports-Multiplayer-main/MbR_eSports/Content/_Blueprints/Camera/playergm.uasset'
+[2022.03.15-18.24.01:760][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.03.15-18.24.01:771][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.03.15-18.24.01:773][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.03.15-18.24.01:794][299]AssetCheck: New page: Asset Save: playergm
+[2022.03.15-18.24.01:794][299]LogContentValidation: Display: Validating Blueprint /Game/_Blueprints/Camera/playergm.playergm
+[2022.03.15-18.24.22:546][332]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.03.15-18.24.22:576][332]LogContentBrowser: Creating deferred item: NewFolder
+[2022.03.15-18.24.28:036][987]LogContentBrowser: Attempting asset rename: NewFolder -> gameClasses
+[2022.03.15-18.24.28:036][987]LogContentBrowser: End creating deferred item NewFolder
+[2022.03.15-18.25.27:150][996]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2022.03.15-18.25.27:162][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:162][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:162][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:162][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:162][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:162][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:162][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:162][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:162][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:162][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:162][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:163][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:163][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:163][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:163][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:163][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:163][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:163][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:163][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:163][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:163][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:163][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:163][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:163][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:163][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:163][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:164][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:164][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:164][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:164][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:164][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:164][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:164][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:164][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:164][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:164][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:164][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:164][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:164][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:164][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:164][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:164][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:165][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:165][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:165][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:165][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:165][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:165][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:165][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:165][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:166][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:166][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:166][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:166][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:166][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:166][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:166][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:166][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:166][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:166][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:166][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:166][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:166][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:166][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:166][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:166][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:167][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:167][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:167][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:167][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:167][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:167][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:167][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:167][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:167][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:167][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:167][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:167][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:167][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:167][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:167][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:167][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:168][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:168][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:168][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:168][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:168][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:168][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:168][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:168][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:168][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:168][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:168][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:168][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:168][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:168][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:168][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:169][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:169][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:169][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:169][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:169][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:169][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:169][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:169][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:169][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:169][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:169][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:169][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:169][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:169][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:170][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:170][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:170][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:170][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:170][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:170][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:170][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:170][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:170][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:170][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:170][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:170][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:170][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:170][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:170][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:170][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:171][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:174][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:176][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:194][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:202][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:206][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:236][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:236][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:265][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:265][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:302][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:304][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.25.27:311][996]LogVSAccessor: Warning: Couldn't access module table
+[2022.03.15-18.26.36:872][623]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\gameClasses\Rogue_BP.uasset: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:873][623]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\gameClasses\Rogue_BP.uasset: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:873][623]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\gameClasses\Rogue_BP.uasset: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:873][623]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\gameClasses\Rogue_BP.uasset: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:873][623]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\gameClasses\Rogue_BP.uasset: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:873][623]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\gameClasses\Rogue_BP.uasset: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:873][623]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\gameClasses\Rogue_BP.uasset: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:874][623]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\gameClasses\Rogue_BP.uasset: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:874][623]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\gameClasses\Rogue_BP.uasset: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:874][623]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\gameClasses\Rogue_BP.uasset: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:874][623]LogLinker: Warning: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:874][623]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/_Blueprints/gameClasses/Rogue_BP.Rogue_BP_C
+[2022.03.15-18.26.36:874][623]LogLinker: Warning: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:875][623]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/_Blueprints/gameClasses/Rogue_BP.Rogue_BP_C
+[2022.03.15-18.26.36:875][623]LogLinker: Warning: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:875][623]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/_Blueprints/gameClasses/Rogue_BP.Rogue_BP_C
+[2022.03.15-18.26.36:875][623]LogLinker: Warning: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:875][623]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/_Blueprints/gameClasses/Rogue_BP.Rogue_BP_C
+[2022.03.15-18.26.36:875][623]LogLinker: Warning: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:875][623]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/_Blueprints/gameClasses/Rogue_BP.Rogue_BP_C
+[2022.03.15-18.26.36:875][623]LogLinker: Warning: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:875][623]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/_Blueprints/gameClasses/Rogue_BP.Rogue_BP_C
+[2022.03.15-18.26.36:875][623]LogLinker: Warning: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:875][623]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/_Blueprints/gameClasses/Rogue_BP.Rogue_BP_C
+[2022.03.15-18.26.36:875][623]LogLinker: Warning: Unable to load Default__Rogue_BP_C with outer Package /Game/_Blueprints/gameClasses/Rogue_BP because its class does not exist
+[2022.03.15-18.26.36:875][623]LogLinker: Warning: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:875][623]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/_Blueprints/gameClasses/Rogue_BP.Rogue_BP_C
+[2022.03.15-18.26.36:875][623]LogLinker: Warning: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:875][623]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/_Blueprints/gameClasses/Rogue_BP.Rogue_BP_C
+[2022.03.15-18.26.36:875][623]LogLinker: Warning: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:875][623]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/_Blueprints/gameClasses/Rogue_BP.Rogue_BP_C
+[2022.03.15-18.26.36:875][623]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\gameClasses\Rogue_BP.uasset: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:875][623]LoadErrors: Failed to load /Script/MyProject.Rogue Referenced by Rogue_BP
+[2022.03.15-18.26.36:875][623]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\gameClasses\Rogue_BP.uasset: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:876][623]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/_Blueprints/gameClasses/Rogue_BP.Rogue_BP_C
+[2022.03.15-18.26.36:876][623]LogBlueprint: Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2022.03.15-18.26.36:876][623]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\gameClasses\Rogue_BP.uasset: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:876][623]LoadErrors: Failed to load /Script/MyProject.Tank Referenced by K2Node_CallFunction_39
+[2022.03.15-18.26.36:876][623]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\gameClasses\Rogue_BP.uasset: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:877][623]LogBlueprint: Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2022.03.15-18.26.36:877][623]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\gameClasses\Rogue_BP.uasset: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:877][623]LoadErrors: Failed to load /Script/MyProject.Rogue Referenced by K2Node_CallFunction_45
+[2022.03.15-18.26.36:877][623]LogBlueprint: Warning: FMemberReference::ResolveMember (getHealth) bSelfContext == true, but no scope supplied!
+[2022.03.15-18.26.36:877][623]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\gameClasses\Rogue_BP.uasset: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:877][623]LoadErrors: Failed to load /Script/MyProject.Rogue Referenced by K2Node_CallFunction_46
+[2022.03.15-18.26.36:877][623]LogBlueprint: Warning: FMemberReference::ResolveMember (setHealth) bSelfContext == true, but no scope supplied!
+[2022.03.15-18.26.36:877][623]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\gameClasses\Rogue_BP.uasset: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:877][623]LoadErrors: Failed to load /Script/MyProject.Tank Referenced by K2Node_CallFunction_50
+[2022.03.15-18.26.36:877][623]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\gameClasses\Rogue_BP.uasset: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:878][623]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\gameClasses\Rogue_BP.uasset: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:878][623]LoadErrors: Failed to load /Script/MyProject.Tank Referenced by K2Node_DynamicCast_0
+[2022.03.15-18.26.36:878][623]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\gameClasses\Rogue_BP.uasset: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:879][623]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\gameClasses\Rogue_BP.uasset: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:879][623]LoadErrors: Failed to load /Script/MyProject.Rogue Referenced by K2Node_DynamicCast_1
+[2022.03.15-18.26.36:879][623]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\gameClasses\Rogue_BP.uasset: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:879][623]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\gameClasses\Rogue_BP.uasset: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:879][623]LoadErrors: Failed to load /Script/MyProject.class_stats Referenced by K2Node_VariableGet_0
+[2022.03.15-18.26.36:880][623]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\gameClasses\Rogue_BP.uasset: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:880][623]LoadErrors: Failed to load /Script/MyProject.Rogue Referenced by K2Node_VariableGet_0
+[2022.03.15-18.26.36:880][623]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\gameClasses\Rogue_BP.uasset: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:880][623]LoadErrors: Failed to load /Script/MyProject.class_stats Referenced by K2Node_VariableGet_1
+[2022.03.15-18.26.36:880][623]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\gameClasses\Rogue_BP.uasset: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:880][623]LoadErrors: Failed to load /Script/MyProject.Rogue Referenced by K2Node_VariableGet_1
+[2022.03.15-18.26.36:880][623]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\gameClasses\Rogue_BP.uasset: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:880][623]LoadErrors: Failed to load /Script/MyProject.class_stats Referenced by K2Node_VariableGet_2
+[2022.03.15-18.26.36:881][623]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\gameClasses\Rogue_BP.uasset: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:881][623]LoadErrors: Failed to load /Script/MyProject.Rogue Referenced by K2Node_VariableGet_2
+[2022.03.15-18.26.36:881][623]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\gameClasses\Rogue_BP.uasset: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:881][623]LoadErrors: Failed to load /Script/MyProject.class_stats Referenced by K2Node_VariableGet_3
+[2022.03.15-18.26.36:881][623]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\gameClasses\Rogue_BP.uasset: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:881][623]LoadErrors: Failed to load /Script/MyProject.Rogue Referenced by K2Node_VariableGet_3
+[2022.03.15-18.26.36:881][623]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\gameClasses\Rogue_BP.uasset: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:881][623]LoadErrors: Failed to load /Script/MyProject.Tank Referenced by K2Node_VariableSet_5
+[2022.03.15-18.26.36:882][623]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\gameClasses\Rogue_BP.uasset: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:882][623]LoadErrors: Failed to load /Script/MyProject.class_stats Referenced by K2Node_VariableSet_5
+[2022.03.15-18.26.36:882][623]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\gameClasses\Rogue_BP.uasset: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:882][623]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\gameClasses\Rogue_BP.uasset: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:882][623]LogLinker: Warning: [AssetLog] C:\Users\Daniel\Desktop\MbR-eSports-Multiplayer-main\MbR_eSports\Content\_Blueprints\gameClasses\Rogue_BP.uasset: Failed to load '/Script/MyProject': Can't find file.
+[2022.03.15-18.26.36:882][623]LoadErrors: Failed to load /Script/MyProject.Rogue Referenced by PackageMetaData
+[2022.03.15-18.26.36:882][623]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/_Blueprints/gameClasses/Rogue_BP.Rogue_BP_C
+[2022.03.15-18.26.36:883][623]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2022.03.15-18.26.37:284][623]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 76
+[2022.03.15-18.26.37:284][623]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 69
+[2022.03.15-18.26.37:284][623]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 62
+[2022.03.15-18.26.37:284][623]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 55
+[2022.03.15-18.26.37:284][623]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 48
+[2022.03.15-18.26.37:284][623]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 41
+[2022.03.15-18.26.37:284][623]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 34
+[2022.03.15-18.26.37:284][623]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 27
+[2022.03.15-18.26.37:284][623]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 20
+[2022.03.15-18.26.37:284][623]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 13
+[2022.03.15-18.26.37:284][623]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 6
+[2022.03.15-18.26.37:291][623]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Blueprints/gameClasses/Rogue_BP.Rogue_BP
+[2022.03.15-18.26.41:984][623]LogSlate: Window 'Message' being destroyed
+[2022.03.15-18.26.41:989][623]Message dialog closed, result: Yes, title: Message, text: Blueprint could not be loaded because it derives from an invalid class.  Check to make sure the parent class for this blueprint hasn't been removed! Do you want to continue (it can crash the editor)?
+[2022.03.15-18.26.42:356][623]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 126 classes and 0 folders.
+[2022.03.15-18.26.42:719][623]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.03.15-18.26.43:253][623]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.534 s
+[2022.03.15-18.26.43:253][623]LogOutputDevice: Error: === Handled ensure: ===
+[2022.03.15-18.26.43:253][623]LogOutputDevice: Error: 
+[2022.03.15-18.26.43:253][623]LogOutputDevice: Error: Ensure condition failed: BpClass != nullptr [File:D:/Build/++UE4/Sync/Engine/Source/Editor/BlueprintGraph/Private/BlueprintActionFilter.cpp] [Line: 632]
+[2022.03.15-18.26.43:253][623]LogOutputDevice: Error: Unable to resolve IsEventUnimplementable() - Blueprint (Rogue_BP) missing an authoratative class (skel: [NULL], generated: [NULL], parent: [NULL])
+[2022.03.15-18.26.43:253][623]LogOutputDevice: Error: Stack: 
+[2022.03.15-18.26.43:253][623]LogOutputDevice: Error: [Callstack] 0x00007ff96262bd4f UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.03.15-18.26.43:253][623]LogOutputDevice: Error: [Callstack] 0x00007ff962477a8d UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.03.15-18.26.43:253][623]LogOutputDevice: Error: [Callstack] 0x00007ff962478433 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.03.15-18.26.43:253][623]LogOutputDevice: Error: [Callstack] 0x00007ff9624782cb UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.03.15-18.26.43:253][623]LogOutputDevice: Error: [Callstack] 0x00007ff9644f7dc6 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.43:253][623]LogOutputDevice: Error: [Callstack] 0x00007ff964521329 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.43:253][623]LogOutputDevice: Error: [Callstack] 0x00007ff9644f8402 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.43:253][623]LogOutputDevice: Error: [Callstack] 0x00007ff96477ec08 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.43:253][623]LogOutputDevice: Error: [Callstack] 0x00007ff9647b8d67 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.43:253][623]LogOutputDevice: Error: [Callstack] 0x00007ff9618693a7 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.03.15-18.26.43:253][623]LogOutputDevice: Error: [Callstack] 0x00007ff96176959d UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.03.15-18.26.43:253][623]LogOutputDevice: Error: [Callstack] 0x00007ff96476da41 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.43:253][623]LogOutputDevice: Error: [Callstack] 0x00007ff964794a05 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.43:253][623]LogOutputDevice: Error: [Callstack] 0x00007ff96479046a UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.43:253][623]LogOutputDevice: Error: [Callstack] 0x00007ff96476c320 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.43:253][623]LogOutputDevice: Error: [Callstack] 0x00007ff964790adf UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.43:253][623]LogOutputDevice: Error: [Callstack] 0x00007ff96456c5f0 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.43:253][623]LogOutputDevice: Error: [Callstack] 0x00007ff96458a933 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.43:253][623]LogOutputDevice: Error: [Callstack] 0x00007ff96457fbb0 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.43:253][623]LogOutputDevice: Error: [Callstack] 0x00007ff9645ad3c7 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.43:253][623]LogOutputDevice: Error: [Callstack] 0x00007ff96466d25f UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.43:254][623]LogOutputDevice: Error: [Callstack] 0x00007ff96466d838 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.43:254][623]LogOutputDevice: Error: [Callstack] 0x00007ff95bff7e86 UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.03.15-18.26.43:254][623]LogOutputDevice: Error: [Callstack] 0x00007ff965e92c11 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.03.15-18.26.43:254][623]LogOutputDevice: Error: [Callstack] 0x00007ff965e93fad UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.03.15-18.26.43:254][623]LogOutputDevice: Error: [Callstack] 0x00007ff965e93cda UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.03.15-18.26.43:254][623]LogOutputDevice: Error: [Callstack] 0x00007ff940b19fdf UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.03.15-18.26.43:254][623]LogOutputDevice: Error: [Callstack] 0x00007ff940b1a200 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.03.15-18.26.43:254][623]LogOutputDevice: Error: [Callstack] 0x00007ff940b07c82 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.03.15-18.26.43:254][623]LogOutputDevice: Error: [Callstack] 0x00007ff95ce6b95d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.03.15-18.26.43:254][623]LogOutputDevice: Error: [Callstack] 0x00007ff95ce2a800 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.03.15-18.26.43:254][623]LogOutputDevice: Error: [Callstack] 0x00007ff95cd8b74c UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.03.15-18.26.43:254][623]LogOutputDevice: Error: [Callstack] 0x00007ff95cd49357 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.03.15-18.26.43:254][623]LogOutputDevice: Error: [Callstack] 0x00007ff95cca8374 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.03.15-18.26.43:254][623]LogOutputDevice: Error: [Callstack] 0x00007ff95cd96227 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.03.15-18.26.43:254][623]LogOutputDevice: Error: [Callstack] 0x00007ff95cd8b93b UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.03.15-18.26.43:254][623]LogOutputDevice: Error: [Callstack] 0x00007ff976822bf8 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.15-18.26.43:254][623]LogOutputDevice: Error: [Callstack] 0x00007ff9768a68e7 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.15-18.26.43:254][623]LogOutputDevice: Error: [Callstack] 0x00007ff97688f4ce UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.15-18.26.43:254][623]LogOutputDevice: Error: [Callstack] 0x00007ff976882de9 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.15-18.26.43:254][623]LogOutputDevice: Error: [Callstack] 0x00007ff9a479bc8f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.15-18.26.43:254][623]LogOutputDevice: Error: [Callstack] 0x00007ff9a4789197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.15-18.26.43:254][623]LogOutputDevice: Error: [Callstack] 0x00007ff9a479e389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.15-18.26.43:254][623]LogOutputDevice: Error: [Callstack] 0x00007ff9a4784310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.15-18.26.43:254][623]LogOutputDevice: Error: [Callstack] 0x00007ffa0111e858 USER32.dll!UnknownFunction []
+[2022.03.15-18.26.43:254][623]LogOutputDevice: Error: [Callstack] 0x00007ffa0111e299 USER32.dll!UnknownFunction []
+[2022.03.15-18.26.43:254][623]LogOutputDevice: Error: [Callstack] 0x00007ff9a479f914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.15-18.26.43:254][623]LogOutputDevice: Error: [Callstack] 0x00007ff737e78848 UE4Editor.exe!UnknownFunction []
+[2022.03.15-18.26.43:254][623]LogOutputDevice: Error: [Callstack] 0x00007ff737e9117c UE4Editor.exe!UnknownFunction []
+[2022.03.15-18.26.43:254][623]LogOutputDevice: Error: [Callstack] 0x00007ff737e9125a UE4Editor.exe!UnknownFunction []
+[2022.03.15-18.26.43:254][623]LogOutputDevice: Error: [Callstack] 0x00007ff737ea52bd UE4Editor.exe!UnknownFunction []
+[2022.03.15-18.26.43:254][623]LogOutputDevice: Error: [Callstack] 0x00007ff737ea7fea UE4Editor.exe!UnknownFunction []
+[2022.03.15-18.26.43:254][623]LogOutputDevice: Error: [Callstack] 0x00007ffa01377034 KERNEL32.DLL!UnknownFunction []
+[2022.03.15-18.26.43:254][623]LogOutputDevice: Error: [Callstack] 0x00007ffa02fe2651 ntdll.dll!UnknownFunction []
+[2022.03.15-18.26.43:254][623]LogOutputDevice: Error: 
+[2022.03.15-18.26.43:260][623]LogStats:                SubmitErrorReport -  0.000 s
+[2022.03.15-18.26.50:266][623]LogStats:                    SendNewReport -  7.007 s
+[2022.03.15-18.26.50:267][623]LogStats:             FDebug::EnsureFailed -  7.548 s
+[2022.03.15-18.26.50:270][623]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.03.15-18.26.50:271][623]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.001 s
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: === Handled ensure: ===
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: 
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: Ensure condition failed: BpClass != nullptr [File:D:/Build/++UE4/Sync/Engine/Source/Editor/BlueprintGraph/Private/BlueprintActionFilter.cpp] [Line: 731]
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: Unable to resolve IsFieldInaccessible() - Blueprint (Rogue_BP) missing an authoratative class (skel: [NULL], generated: [NULL], parent: [NULL])
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: Stack: 
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff96262cc2f UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff9624781df UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff962478433 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff9624782cb UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff9644f7dc6 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff964521329 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff9644f8402 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff96477ec08 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff9647b8d67 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff9618693a7 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff96176959d UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff96476da41 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff964794a05 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff96479046a UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff96476c320 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff964790adf UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff96456c5f0 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff96458a933 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff96457fbb0 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff9645ad3c7 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff96466d25f UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff96466d838 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff95bff7e86 UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff965e92c11 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff965e93fad UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff965e93cda UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff940b19fdf UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff940b1a200 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff940b07c82 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff95ce6b95d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff95ce2a800 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff95cd8b74c UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff95cd49357 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff95cca8374 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff95cd96227 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff95cd8b93b UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff976822bf8 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff9768a68e7 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff97688f4ce UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff976882de9 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff9a479bc8f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff9a4789197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff9a479e389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff9a4784310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ffa0111e858 USER32.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ffa0111e299 USER32.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff9a479f914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff737e78848 UE4Editor.exe!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff737e9117c UE4Editor.exe!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff737e9125a UE4Editor.exe!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff737ea52bd UE4Editor.exe!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ff737ea7fea UE4Editor.exe!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ffa01377034 KERNEL32.DLL!UnknownFunction []
+[2022.03.15-18.26.50:271][623]LogOutputDevice: Error: [Callstack] 0x00007ffa02fe2651 ntdll.dll!UnknownFunction []
+[2022.03.15-18.26.50:272][623]LogOutputDevice: Error: 
+[2022.03.15-18.26.50:280][623]LogStats:                SubmitErrorReport -  0.000 s
+[2022.03.15-18.26.56:534][623]LogStats:                    SendNewReport -  6.254 s
+[2022.03.15-18.26.56:534][623]LogStats:             FDebug::EnsureFailed -  6.264 s
+[2022.03.15-18.26.56:824][623]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.03.15-18.26.56:825][623]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.001 s
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: === Handled ensure: ===
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: 
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: Ensure condition failed: Blueprint != nullptr && Blueprint->ParentClass != nullptr [File:D:/Build/++UE4/Sync/Engine/Source/Editor/BlueprintGraph/Private/BlueprintActionFilter.cpp] [Line: 1707]
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: 
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: Stack: 
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff96262c6e9 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff96247930f UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff962478433 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff9624782cb UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff9644f7dc6 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff964521329 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff9644f8402 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff96477ec08 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff9647b8d67 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff9618693a7 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff96176959d UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff96476da41 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff964794a05 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff96479046a UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff96476c320 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff964790adf UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff96456c5f0 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff96458a933 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff96457fbb0 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff9645ad3c7 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff96466d25f UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff96466d838 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff95bff7e86 UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff965e92c11 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff965e93fad UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff965e93cda UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff940b19fdf UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff940b1a200 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff940b07c82 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff95ce6b95d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff95ce2a800 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff95cd8b74c UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff95cd49357 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff95cca8374 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff95cd96227 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff95cd8b93b UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff976822bf8 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.15-18.26.56:825][623]LogOutputDevice: Error: [Callstack] 0x00007ff9768a68e7 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.15-18.26.56:826][623]LogOutputDevice: Error: [Callstack] 0x00007ff97688f4ce UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.15-18.26.56:826][623]LogOutputDevice: Error: [Callstack] 0x00007ff976882de9 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.15-18.26.56:826][623]LogOutputDevice: Error: [Callstack] 0x00007ff9a479bc8f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.15-18.26.56:826][623]LogOutputDevice: Error: [Callstack] 0x00007ff9a4789197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.15-18.26.56:826][623]LogOutputDevice: Error: [Callstack] 0x00007ff9a479e389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.15-18.26.56:826][623]LogOutputDevice: Error: [Callstack] 0x00007ff9a4784310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.15-18.26.56:826][623]LogOutputDevice: Error: [Callstack] 0x00007ffa0111e858 USER32.dll!UnknownFunction []
+[2022.03.15-18.26.56:826][623]LogOutputDevice: Error: [Callstack] 0x00007ffa0111e299 USER32.dll!UnknownFunction []
+[2022.03.15-18.26.56:826][623]LogOutputDevice: Error: [Callstack] 0x00007ff9a479f914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.15-18.26.56:826][623]LogOutputDevice: Error: [Callstack] 0x00007ff737e78848 UE4Editor.exe!UnknownFunction []
+[2022.03.15-18.26.56:826][623]LogOutputDevice: Error: [Callstack] 0x00007ff737e9117c UE4Editor.exe!UnknownFunction []
+[2022.03.15-18.26.56:826][623]LogOutputDevice: Error: [Callstack] 0x00007ff737e9125a UE4Editor.exe!UnknownFunction []
+[2022.03.15-18.26.56:826][623]LogOutputDevice: Error: [Callstack] 0x00007ff737ea52bd UE4Editor.exe!UnknownFunction []
+[2022.03.15-18.26.56:826][623]LogOutputDevice: Error: [Callstack] 0x00007ff737ea7fea UE4Editor.exe!UnknownFunction []
+[2022.03.15-18.26.56:826][623]LogOutputDevice: Error: [Callstack] 0x00007ffa01377034 KERNEL32.DLL!UnknownFunction []
+[2022.03.15-18.26.56:826][623]LogOutputDevice: Error: [Callstack] 0x00007ffa02fe2651 ntdll.dll!UnknownFunction []
+[2022.03.15-18.26.56:826][623]LogOutputDevice: Error: 
