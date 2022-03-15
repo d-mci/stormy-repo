@@ -7,8 +7,3 @@ the batch file should contain the line shown below;
 The first file address must be updated to match the location of the 4.26 unreal editor on your local pc
 the second file address must be updated to match the location of the project file on your local pc
 with the file locations updated running the batch file should launch the game correctly
-
-
-
-
-HOW TO PLAY THE GAME
