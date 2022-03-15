@@ -8,4 +8,7 @@ The first file address must be updated to match the location of the 4.26 unreal 
 the second file address must be updated to match the location of the project file on your local pc
 with the file locations updated running the batch file should launch the game correctly
 
+
+
+
 HOW TO PLAY THE GAME
